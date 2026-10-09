@@ -1,0 +1,11 @@
+pub mod slot;
+pub mod blackjack;
+pub mod roulette;
+pub mod plinko;
+pub mod craps;
+pub mod war;
+pub mod keno;
+pub mod guess;
+pub mod guess_num;
+pub mod hicard;
+pub mod poker;
