@@ -1,5 +1,5 @@
 # Build stage
-FROM rust:slim as builder
+FROM rust:bookworm-slim as builder
 
 WORKDIR /usr/src/app
 COPY . .
